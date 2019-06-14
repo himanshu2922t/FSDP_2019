@@ -1,0 +1,24 @@
+[
+    {
+       "First Name" : "Ajay",
+       "Last Name" : "Mourya",
+       "Photo" : "faculty\\ajay.jpg",
+       "Department" : "CS",
+       "Research Areas" : ["Java","C++","IoT"],
+       "Contact Details" : {
+                               "mobile" : ["9876543210","9078563412"],
+                               "email" : ["ajay@gmail.com","ajay@poornima.org"]
+                           }
+    },
+    {
+       "First Name" : "Deepak",
+       "Last Name" : "Moud",
+       "Photo" : "faculty\\deepak.jpg",
+       "Department" : "CS",
+       "Research Areas" : ["SQL","Python","Deep Learning"],
+       "Contact Details" : {
+                               "mobile" : ["9182736450","8907654321"],
+                               "email" : ["deepak@gmail.com","deepak@poornima.org"]
+                           }
+    }
+]

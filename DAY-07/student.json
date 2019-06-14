@@ -1,0 +1,26 @@
+[
+    {
+       "First Name" : "Himanshu",
+       "Last Name" : "Rathore",
+       "Photo" : "student\\himanshu.jpg",
+       "Department" : "CS",
+       "Year" : 2,
+       "12th percentage" : 93.17,
+       "Contact Details" : {
+                               "mobile" : ["9876543210","9078563412"],
+                               "email" : ["himanshu@gmail.com","himanshu@poornima.org"]
+                           }
+    },
+    {
+       "First Name" : "Navdeep",
+       "Last Name" : "Parmar",
+       "Photo" : "student\\navdeep.jpg",
+       "Department" : "IT",
+       "Year" : 2,
+       "12th percentage" : 79.20,
+       "Contact Details" : {
+                               "mobile" : ["9182736450","8907654321"],
+                               "email" : ["navdeep@gmail.com","navdeep@poornima.org"]
+                           }
+    }
+]
